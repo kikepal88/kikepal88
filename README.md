@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hola! yo soy OMAR PALACIOS bienvenido.
 
-<!--
-**omarpal88/omarpal88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **FrontEnd Developer** en constante entrenamiento, principalmente en [Platzi](https://platzi.com/ "Platzi"), te invito a visitar mis repositorios para que puedas ver lo que puedo construir a base de código **HTML**, **CSS** y **JS**, espero te gusten y de igual manera te invito a que **#NuncaParesDeAprender**.
 
-Here are some ideas to get you started:
+A continuación, mis mejores repositorios: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Clon Wikipedia:**
+	Repositorio: https://github.com/omarpal88/Wiki-Clone
+	GitHub Page: https://omarpal88.github.io/Wiki-Clone/
+
+- **Reto 6 #PlatziWebChallenge:**
+	Repositorio: https://github.com/omarpal88/Reto6_Room-HomePage
+	GitHub Page: https://omarpal88.github.io/Reto6_Room-HomePage/
