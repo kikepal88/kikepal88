@@ -25,3 +25,11 @@ A continuación, mis principales repositorios:
 	Repositorio: https://github.com/kikepal88/MiniTutorialesWebDev
 	
 	GHPages: https://kikepal88.github.io/MiniTutorialesWebDev/
+
+Me puedes encontrar en las siguientes redes:
+
+![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/twitter_naranja.svg?alt=media&token=4226810e-a5ad-43a2-aad3-b1a8f50b5496) [Twitter](https://twitter.com/kikepal88)
+
+![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/instagram_naranja.svg?alt=media&token=f5d7e23d-67a2-47d8-acc6-da34a4ed60cd) [Instagram](https://www.instagram.com/kikepal88/?hl=es-la)
+
+![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/linkedin2_naranja.svg?alt=media&token=39f84fb9-e201-4c27-870c-5b268520f83f) [LinkedIn](https://www.linkedin.com/in/omarpal/)
