@@ -1,4 +1,4 @@
-![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/LogoKike_peque%C3%B1o.png?alt=media&token=d8e176a4-f349-4a33-b0ee-99ca18731e9f)
+![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/Logokike.png?alt=media&token=a00a0fa3-d00d-4a98-b590-b6a853cabff1)
 
 ## Hola! yo soy KIKE PALACIOS bienvenido.
 
@@ -12,12 +12,16 @@ A continuación, mis principales repositorios:
 
 ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/LogoMelifluo.png?alt=media&token=ef385cb5-279a-48d1-82aa-ddf6ce06d71b)
 
-- **Melifluo:** Página de pre-lanzamiento de una escuela online para aficionados a la música. (Construcción en progreso)
+- **Melifluo:** Página de pre-lanzamiento de una escuela online para aficionados a la música. **(Construcción en progreso)**
+	
 	Repositorio: https://github.com/kikepal88/Melifluo-Web
+	
 	GHPages: https://kikepal88.github.io/Melifluo-Web/
 
 ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/LogoMTWD_blanco.png?alt=media&token=09044166-5f14-4699-b77a-b107e372d885)
 
-- **MiniTutorialesWebDev:** Es un espacio con el objetivo apoyar a Desarrolladores Web a través de pequeños consejos sobre sus tecnologías base (HTML, CSS y JavaScript), seguro encontraras consejos útiles a la hora de codear. (Construcción en progreso)
+- **MiniTutorialesWebDev:** Es un espacio con el objetivo apoyar a Desarrolladores Web a través de pequeños consejos sobre sus tecnologías base (HTML, CSS y JavaScript), seguro encontraras consejos útiles a la hora de codear. **(Construcción en progreso)**
+	
 	Repositorio: https://github.com/kikepal88/MiniTutorialesWebDev
+	
 	GHPages: https://kikepal88.github.io/MiniTutorialesWebDev/
