@@ -20,7 +20,7 @@ A continuación, mis principales repositorios:
 
 ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/LogoMTWD_blanco.png?alt=media&token=09044166-5f14-4699-b77a-b107e372d885)
 
-- **MiniTutorialesWebDev:** Diseño y construcción de un espacio con el objetivo apoyar a Desarrolladores Web a través de pequeños consejos sobre sus tecnologías base (HTML, CSS y JavaScript), seguro encontraras consejos útiles a la hora de codear. **(Construcción en progreso)**
+- **MiniTutorialesWebDev:** Diseño y construcción de un espacio con el objetivo apoyar a Desarrolladores Web a través de pequeños consejos sobre sus tecnologías base (HTML, CSS y JavaScript), seguro encontraras consejos útiles a la hora de codear.
 
 	Repositorio: https://github.com/kikepal88/MiniTutorialesWebDev
 
