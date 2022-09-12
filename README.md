@@ -2,12 +2,11 @@
 
 En búsqueda de una oportunidad como Desarrollador Front-End, sólidos
 conocimientos en **HTML5**, **CSS3** y **JavaScript**, manejo de tecnologías cómo **React** y **SaSS**, control de versiones con GIT, programas de diseño cómo **Figma**, capacidad de construir páginas web responsive (**Mobile First**) y conocimientos básicos en diseño **UX/UI** de páginas web.
-Poseo un background técnico y de diseño en la Ingeniería Civil, que junto con
-esfuerzo y dedicación, me ha permitido desarrollar retos y proyectos que han puesto
-a prueba estas habilidades en un proceso de aprendizaje constante, mi objetivo es
-mejorar mis habilidades cómo desarrollador e iniciar mi carrera como FrontEnd.
 
-### Proyectos:
+Poseo un background técnico y de diseño en la Ingeniería Civil, que junto con esfuerzo y dedicación, me ha permitido desarrollar retos y proyectos que han puesto
+a prueba estas habilidades en un proceso de aprendizaje constante, mi objetivo es mejorar mis habilidades cómo desarrollador e iniciar mi carrera como FrontEnd.
+
+## Proyectos:
 
 ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/LogoMelifluo.png?alt=media&token=ef385cb5-279a-48d1-82aa-ddf6ce06d71b)
 
@@ -25,7 +24,7 @@ mejorar mis habilidades cómo desarrollador e iniciar mi carrera como FrontEnd.
 
 	GHPages: https://kikepal88.github.io/MiniTutorialesWebDev/
 
-### Tecnologías
+## Tecnologías
 
 |HTML ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/html.svg?alt=media&token=7e0f50c6-e237-4bb4-aec9-a11303e3a904)|CSS ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/css.svg?alt=media&token=5025a0a1-e6bd-41aa-a7a4-9571658384a2)|JAVASCRIPT ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/javascript.svg?alt=media&token=79fc4000-ddc8-437a-8bdc-f48b0e321f3c)|
 | ------------ | ------------ | ------------ |
