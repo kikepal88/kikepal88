@@ -1,4 +1,4 @@
-![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/Banner%20LinkedIn.png?alt=media&token=42c4fbf1-83b1-49c3-acd4-297415489f98)
+![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/Banner%20LinkedIn2.png?alt=media&token=e2e8b603-341c-4ff3-8947-df2a8a0206ff)
 
 En búsqueda de una oportunidad como Desarrollador Front-End, sólidos
 conocimientos en **HTML5**, **CSS3** y **JavaScript**, manejo de tecnologías cómo **React** y **SaSS**, control de versiones con GIT, programas de diseño cómo **Figma**, capacidad de construir páginas web responsive (**Mobile First**) y conocimientos básicos en diseño **UX/UI** de páginas web.
