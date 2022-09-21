@@ -1,7 +1,6 @@
 ![](https://firebasestorage.googleapis.com/v0/b/base-de-imagenes-proyectos.appspot.com/o/Banner%20LinkedIn2.png?alt=media&token=e2e8b603-341c-4ff3-8947-df2a8a0206ff)
 
-En búsqueda de una oportunidad como Desarrollador Front-End, sólidos
-conocimientos en **HTML5**, **CSS3** y **JavaScript**, manejo de tecnologías cómo **React** y **SaSS**, control de versiones con GIT, programas de diseño cómo **Figma**, capacidad de construir páginas web responsive (**Mobile First**) y conocimientos básicos en diseño **UX/UI** de páginas web.
+Desarrollador Front-End con sólidos conocimientos en **HTML5**, **CSS3** y **JavaScript**, manejo de tecnologías cómo **React JS** y **SaSS**, control de versiones con GIT, prototipar con programas de diseño cómo **Figma**, tengo la capacidad de construir páginas web responsive (**Mobile First**) y conocimientos básicos en diseño **UX/UI** de páginas web.
 
 Poseo un background técnico y de diseño en la Ingeniería Civil, que junto con esfuerzo y dedicación, me ha permitido desarrollar retos y proyectos que han puesto
 a prueba estas habilidades en un proceso de aprendizaje constante, mi objetivo es mejorar mis habilidades cómo desarrollador e iniciar mi carrera como FrontEnd.
