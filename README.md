@@ -17,7 +17,18 @@ Este conocimiento se complementa con un background técnico de 10 años en ingen
 **Otras**  <a href="https://github.com/" target="_blank"><img style="margin: 2px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30" /></a>  <a href="https://www.figma.com/" target="_blank"><img style="margin: 2px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  <a href="https://github.com/" target="_blank"><img style="margin: 2px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git" height="30" /></a>
 
 ### Connect with me  
-<a href="https://github.com/kikepal88" target="_blank"> <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" /> </a><a href="https://twitter.com/kikepal88" target="_blank"> <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin: 5px;" /> </a><a href="https://linkedin.com/in/omarpal" target="_blank"> <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin: 5px;" /> </a><a href="https://instagram.com/kikepal88" target="_blank"> <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin: 5px;" /> </a>
+<a href="https://github.com/kikepal88" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/kikepal88" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/omarpal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kikepal88" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
 
 ### Github Stats  
