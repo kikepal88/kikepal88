@@ -17,8 +17,8 @@ Desarrollador Web con experiencia profesional en Frontend utilizando frameworks 
 
 ## Contáctame
 <a href="https://linkedin.com/in/omarpal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a> <a href="https://kikepal88.github.io/Portafolio-Kike-WebDev/" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 
 ## Proyectos
 - <a href="https://pawcare.vercel.app/" target="_blank">**PawCare - Full Stack Web App**</a> - Diseño y construcción FullStack en entorno colaborativo de aplicación web responsive para el contacto entre propietarios de mascotas con cuidadores de confianza.
